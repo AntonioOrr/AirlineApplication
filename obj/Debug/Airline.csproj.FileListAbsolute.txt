@@ -1,0 +1,7 @@
+C:\Users\Antonio\source\repos\Airline\bin\Debug\Airline.exe.config
+C:\Users\Antonio\source\repos\Airline\bin\Debug\Airline.exe
+C:\Users\Antonio\source\repos\Airline\bin\Debug\Airline.pdb
+C:\Users\Antonio\source\repos\Airline\obj\Debug\Airline.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Airline\obj\Debug\Airline.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Airline\obj\Debug\Airline.exe
+C:\Users\Antonio\source\repos\Airline\obj\Debug\Airline.pdb
